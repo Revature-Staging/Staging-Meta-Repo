@@ -1,0 +1,8 @@
+{
+  "repos": {
+    "project": "https://github.com/Revature-Staging/Projects.git",
+    ".NET": "https://github.com/Revature-Staging/.NET.git",
+    "Certification-Resources": "https://github.com/Revature-Staging/Certification-Resources.git",
+    "Study-Materials": "https://github.com/Revature-Staging/Study-Materials.git"
+   }
+}
